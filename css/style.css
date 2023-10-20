@@ -136,7 +136,7 @@
  }
 
  @media screen and (max-width: 480px) {
-    .col{
+    .lessons .col, .steps .col, .why-us .col-left, .why-us .col-right{
         width: 100%;      
     }
     .row{
